@@ -10,7 +10,8 @@ import { ListadoComponent } from './listado/listado.component';
   ],
   //qué componentes se van a usar en el exterior
   exports: [
-    ListadoComponent
+    ListadoComponent,
+    HeroeComponent
   ],
   //Modulos que se usarán
   imports: [
