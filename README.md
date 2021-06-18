@@ -48,3 +48,9 @@ ng g m dbz
 # el --skipTest es para que no se cree el archivo de test
 ng g c dbz/mainPage --skipTests
 ```
+
+# Creando la build de producción
+
+```
+ng build --prod
+```
